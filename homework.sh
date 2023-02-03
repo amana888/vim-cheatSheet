@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+
 
 #Hey guys, 
 #You will need to solve a small issue while trying to run the current script in your terminal
